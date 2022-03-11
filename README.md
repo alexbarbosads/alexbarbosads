@@ -2,7 +2,7 @@
 
 ### My name is Alex Barbosa, I'm 25 years old, I'm from Brazil, I'm constructing my DEV career and I believe that I can do big things.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza157998&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbarbosads&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
 
 - born and raised in Pernambuco
 - My main language programing is Delphi, but also use a lot PHP, Java, ReactNative.
